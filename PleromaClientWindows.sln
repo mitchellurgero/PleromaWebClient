@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PleromaClientWindows", "PleromaClientWindows\PleromaClientWindows.csproj", "{9760AF63-3DD6-48EB-A534-53ABFD489BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9760AF63-3DD6-48EB-A534-53ABFD489BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9760AF63-3DD6-48EB-A534-53ABFD489BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9760AF63-3DD6-48EB-A534-53ABFD489BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9760AF63-3DD6-48EB-A534-53ABFD489BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4BB452A-AC74-4468-B536-FFE353DE6886}
+	EndGlobalSection
+EndGlobal

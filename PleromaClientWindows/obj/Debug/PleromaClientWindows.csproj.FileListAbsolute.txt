@@ -1,0 +1,11 @@
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\bin\Debug\PleromaClientWindows.exe.config
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\bin\Debug\PleromaClientWindows.exe
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\bin\Debug\PleromaClientWindows.pdb
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.csprojResolveAssemblyReference.cache
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.Form1.resources
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.Properties.Resources.resources
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.csproj.GenerateResource.Cache
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.csproj.CoreCompileInputs.cache
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.exe
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.pdb
+C:\Users\murgero\source\repos\PleromaClientWindows\PleromaClientWindows\obj\Debug\PleromaClientWindows.login.resources
