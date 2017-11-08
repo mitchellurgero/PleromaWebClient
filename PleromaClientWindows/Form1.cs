@@ -9,12 +9,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Tulpep.NotificationWindow;
 
 namespace PleromaClientWindows
 {
     public partial class Form1 : Form
     {
         public GeckoWebBrowser geckoWebBrowser = new GeckoWebBrowser { Dock = DockStyle.Fill };
+        bool isFlashing = false;
         public Form1()
         {
             
@@ -43,10 +45,20 @@ namespace PleromaClientWindows
             if (gnc.Count() >= 1)
             {
                 //Popup notifications?
-                FlashWindow.Start(this);
+                if (isFlashing == false)
+                {
+                    FlashWindow.Start(this);
+                    var popupNotifier = new PopupNotifier();
+                    popupNotifier.TitleText = this.Text;
+                    popupNotifier.ContentText = "You have new notifications!";
+                    popupNotifier.IsRightToLeft = false;
+                    popupNotifier.Popup();
+                    isFlashing = true;
+                }
             } else
             {
                 FlashWindow.Stop(this);
+                isFlashing = false;
             }
         }
 
